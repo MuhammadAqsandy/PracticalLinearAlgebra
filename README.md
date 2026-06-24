@@ -8,7 +8,7 @@
 ## 👤 Author
 | NIM | Nama |
 |-----|------|
-| 1103220214 | Aqsandy |
+| 1103220214 | Muhammad Aqsandy J Iskandar |
 
 ---
 
